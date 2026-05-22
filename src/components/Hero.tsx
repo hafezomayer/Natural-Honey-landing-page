@@ -83,7 +83,7 @@ export default function Hero({ onOrderNowClick }: HeroProps) {
             
             <div className="relative max-w-sm sm:max-w-md lg:max-w-full w-full rounded-3xl overflow-hidden border border-amber-100 shadow-2xl bg-amber-50/20 p-2">
               <img
-                src="/src/assets/images/honey_hero_banner_1779373197010.png"
+                src="/images/honey_hero_banner_1779373197010.png"
                 alt="Premium Honey Jar Product Shot"
                 className="w-full h-auto object-cover rounded-2xl transition-transform duration-700 hover:scale-[1.03]"
                 referrerPolicy="no-referrer"

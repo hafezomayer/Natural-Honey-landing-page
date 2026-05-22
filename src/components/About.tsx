@@ -20,7 +20,7 @@ export default function About() {
             
             <div className="relative rounded-3xl overflow-hidden border border-amber-100 shadow-xl bg-amber-50/10 p-2.5">
               <img
-                src="/src/assets/images/honey_harvesting_1779373217821.png"
+                src="/images/honey_harvesting_1779373217821.png"
                 alt="Honey Harvesting Bee Farm"
                 className="w-full h-auto object-cover rounded-2xl hover:scale-105 transition-transform duration-500"
                 referrerPolicy="no-referrer"

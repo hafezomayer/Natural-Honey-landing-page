@@ -40,7 +40,7 @@ export const HONEY_PRODUCTS: Product[] = [
     price: 950,
     originalPrice: 1200,
     weight: "৫০০ গ্রাম",
-    image: "/src/assets/images/sundarban_honey_1779373236945.png",
+    image: "/images/sundarban_honey_1779373236945.png",
     popular: true,
   },
   {
@@ -51,7 +51,7 @@ export const HONEY_PRODUCTS: Product[] = [
     price: 750,
     originalPrice: 900,
     weight: "৫০০ গ্রাম",
-    image: "/src/assets/images/kalajira_honey_1779373258364.png",
+    image: "/images/kalajira_honey_1779373258364.png",
     popular: false,
   },
   {
@@ -62,7 +62,7 @@ export const HONEY_PRODUCTS: Product[] = [
     price: 500,
     originalPrice: 650,
     weight: "৫০০ গ্রাম",
-    image: "/src/assets/images/litchi_honey_1779373276201.png",
+    image: "/images/litchi_honey_1779373276201.png",
     popular: false,
   },
 ];
