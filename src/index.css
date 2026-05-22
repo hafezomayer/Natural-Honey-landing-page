@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Hind Siliguri', 'Inter', system-ui, -apple-system, sans-serif;
+  --color-honey-50: #fefcf3;
+  --color-honey-100: #fdf6df;
+  --color-honey-200: #fbeaaf;
+  --color-honey-300: #f7da73;
+  --color-honey-500: #d97706; /* amber-600 original */
+  --color-honey-600: #b45309; /* amber-700 original */
+  --color-honey-700: #92400e; /* amber-800 original */
+  --color-honey-800: #78350f; /* amber-900 original */
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Hind Siliguri', 'Inter', sans-serif;
+  background-color: #fefcf3; /* Very soft warm ambient white/honey cream */
+  color: #1e1b18; /* Dark brown grey for reading comfort */
+}

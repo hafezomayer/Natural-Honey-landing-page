@@ -1,0 +1,6 @@
+{
+  "name": "প্রাকৃতিক মধু (Natural Honey)",
+  "description": "প্রিমিয়াম প্রাকৃতিক মধু বিক্রির জন্য একটি মর্ডান এবং প্রফেশনাল ল্যান্ডিং পেইজ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
